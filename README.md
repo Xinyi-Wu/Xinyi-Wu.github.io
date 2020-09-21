@@ -1,6 +1,6 @@
-## Xinyi Wu
+# Xinyi Wu
 
-# EDUCATION
+### EDUCATION
 
 University of Bristol, Engineering Mathematics (MSc) Oct. 2020 - (need to confirm when)
 Research interest: numerical analysis, artificial intelligence, data science & applied mathematics
