@@ -1,5 +1,4 @@
-# Xinyi-Wu.github.io
-Personal Website
+## Xinyi Wu
 
 # EDUCATION
 
