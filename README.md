@@ -40,7 +40,7 @@ International Mathematical Contest in Modeling / Supervisor: Zhong Tan
   + Utilised MATLAB, Latex.
   + Implemented **Analytic Hierarchy Process & sensitivity analysis**.
   + Responsible for constructing the initial models to forecast the number of native speakers and the number of second (or third, etc.) language speakers respectively.
-  + Applied **logistic growth model** & **function fitting** in Native Speakers Growth Model and curve fitting and **Multiple Regression Analysis** in Second (or third, etc.) Language Speakers Growth Model.
+  + Applied **logistic growth model** & **function fitting** in Native Speakers Growth Model and **curve fitting** and **Multiple Regression Analysis** in Second (or third, etc.) Language Speakers Growth Model.
   
 * Jingrun Teenager: A Platform to Help Teenagers Study Online<br>
 Mar. 2018 - Feb. 2019<br>
