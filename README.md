@@ -7,7 +7,7 @@ tv20343@bristol.ac.uk<br>
 ### EDUCATION
 
 * **University of Bristol<br> 								         
----:Oct.2020-Sept.2021<br>
+<p align="center">Oct.2020-Sept.2021</p>
 **Major**: Engineering Mathematics (MSc)<br> 
 Research interest: Numerical analysis, PDEs, Engineering Mathematics, Applied and Computational Mathematics<br>
 
