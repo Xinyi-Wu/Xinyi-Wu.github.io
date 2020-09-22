@@ -24,7 +24,7 @@ Sept. 2018 - Dec. 2019<br>
 
 ### PROJECT EXPERIENCE
 
-* Application of Non-negative Matrix Factorization in Urban Construction[pdf.](https://github.com/Xinyi-Wu/Xinyi-Wu.github.io/blob/master/The%20Application%20of%20Non-negative%20Matrix%20Factorization.pdf)<br>
+* Application of Non-negative Matrix Factorization in Urban Construction [pdf.](https://github.com/Xinyi-Wu/Xinyi-Wu.github.io/blob/master/The%20Application%20of%20Non-negative%20Matrix%20Factorization.pdf)<br>
 Jan. 2020 - June. 2020<br>
 Graduate Dissertation / Supervisor: Lu Lin
   + Applied **Non-negative Matrix Factorization(NMF)** to Chinese statistical yearbook of urban construction in 2018.
@@ -34,7 +34,7 @@ Graduate Dissertation / Supervisor: Lu Lin
   + Analysed the proportion of unbalanced development index in eight speciality classification of urban construction including 143 specific indexes and 673 Chinese cities. 
   + Utilised MATLAB, Latex.<br>
 
-* Geographic Distribution Prediction of Global Languages & Human Migration Patterns<br>
+* Geographic Distribution Prediction of Global Languages & Human Migration Patterns [pdf.](MCM.pdf)<br>
 Feb. 2018<br>
 International Mathematical Contest in Modeling / Supervisor: Zhong Tan
   + Utilised MATLAB, Latex.
