@@ -6,12 +6,11 @@ tv20343@bristol.ac.uk<br>
 
 ### EDUCATION
 
-* **University of Bristol<br> 								         
-<p align="center">Oct.2020-Sept.2021</p>
+* **University of Bristol** <p align="right">Oct.2020-Sept.2021</p>
 **Major**: Engineering Mathematics (MSc)<br> 
 Research interest: Numerical analysis, PDEs, Engineering Mathematics, Applied and Computational Mathematics<br>
 
-* **Xiamen University<br>
+* **Xiamen University**<br>
 Sept.2016-June.2020<br>
 **Major**: Information & Computing Science<br>
 **Cumulative GPA**: 3.17/4, avg. grade: 82.7%<br>
