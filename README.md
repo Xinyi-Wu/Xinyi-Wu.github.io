@@ -32,7 +32,7 @@ Graduate Dissertation / Supervisor: Lu Lin
   + Took the drainage and sewage treatment as a single example for realization of non-negative matrix decomposition algorithm and identified key indices that influenced this aspect.
   + Explored how to apply different **normalisation methods** including weight data normalisation method to the data pre-processing in non-negative matrix factorization.
   + Analysed the proportion of unbalanced development index in eight speciality classification of urban construction including 143 specific indexes and 673 Chinese cities. 
-  + Utilised MATLAB, Latex.
+  + Utilised MATLAB, Latex.<br>
 
 * Geographic Distribution Prediction of Global Languages & Human Migration Patterns<br>
 Feb. 2018<br>
@@ -40,19 +40,19 @@ International Mathematical Contest in Modeling / Supervisor: Zhong Tan
   + Utilised MATLAB, Latex.
   + Implemented **Analytic Hierarchy Process & sensitivity analysis**.
   + Responsible for constructing the initial models to forecast the number of native speakers and the number of second (or third, etc.) language speakers respectively.
-  + Applied **logistic growth model** & **function fitting** in Native Speakers Growth Model and **curve fitting** and **Multiple Regression Analysis** in Second (or third, etc.) Language Speakers Growth Model.
+  + Applied **logistic growth model** & **function fitting** in Native Speakers Growth Model and **curve fitting** and **Multiple Regression Analysis** in Second (or third, etc.) Language Speakers Growth Model.<br>
   
 * Jingrun Teenager: A Platform to Help Teenagers Study Online<br>
 Mar. 2018 - Feb. 2019<br>
 University Entrepreneurial Training /  Supervisor: Shuni Chen
   + Participated on **the College Students' Innovative Entrepreneurial Training Plan Program**.
-  + Came up with practical ideas and methods for online study platforms, such as uploading articles online & answering questions from children and their family.
+  + Came up with practical ideas and methods for online study platforms, such as uploading articles online & answering questions from children and their family.<br>
 
 * Survey of Housing Prices in Xiamen<br>
 May. 2017 - Jul. 2017<br>
 Social Survey / Team Leader
   + Responsible for writing survey plan, assigning tasks, publicizing and purchasing materials.
-  + Contacted teachers and real estate companies as the **team leader**.
+  + Contacted teachers and real estate companies as the **team leader**.<br>
 
 ### MAJOR AWARDS
 
@@ -89,19 +89,19 @@ Social Survey / Team Leader
 * **Jingrun Primary School Volunteer**<br>
 Mar. 2017 - Dec. 2018
   + Participated in the opening ceremony for the activity "4:30 Primary Class" of Jingrun Primary School held by the School of Mathematical Sciences at Xiamen University.
-  + Volunteer to answer questions online.
+  + Volunteer to answer questions online.<br>
 
 * **Director of Academic Department**<br>
 Sept. 2017 - June. 2018
   + Operated the Academic Department at the School of Mathematical Sciences in Xiamen University.
   + Assisted tutors conduct specific general students' work, collected and organized academic information related to professional classes.
   + Enhanced students ability in solving mathematical problems.
-  + Organized the first Math Cup Knowledge Competition in Xiamen University.
+  + Organized the first Math Cup Knowledge Competition in Xiamen University.<br>
   
 * **Leader of Ladies Basketball Team**<br>
 Mar. 2017 - Mar. 2018
   + Led the School of Mathematical Sciences team to participate in the university Basketball league.
-  + Organized all training for two or three times per week and coached team members who were not familiar with the basketball skills when the coach had no time.
+  + Organized all training for two or three times per week and coached team members who were not familiar with the basketball skills when the coach had no time.<br>
   
 * **Volunteer for the second UNESCO Awards Ceremony for Girls and Women's Education**<br>
 Sept. 2017
