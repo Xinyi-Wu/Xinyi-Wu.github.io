@@ -7,25 +7,25 @@ tv20343@bristol.ac.uk<br>
 ### EDUCATION
 
 * **University of Bristol**<br>
-Oct.2020-Sept.2021<br>
+Oct. 2020 - Sept. 2021<br>
 **Major**: Engineering Mathematics (MSc)<br> 
 Research interest: Numerical analysis, PDEs, Engineering Mathematics, Applied and Computational Mathematics<br>
 
 * **Xiamen University**<br>
-Sept.2016-June.2020<br>
+Sept. 2016 - June. 2020<br>
 **Major**: Information & Computing Science<br>
 **Cumulative GPA**: 3.17/4, avg. grade: 82.7%<br>
 Awarded the Scholarship for Excellent Academic Studies and the Scholarship for Social Practice respectively in Nov. 2017 by School of Mathematical Sciences, Xiamen University<br>
 **Courses**: Diophantine Equation(100%), Advanced Algebra I (99%), Mathematical Analysis I (97%), C Programming Language (97%), Numerical Approximation (94%)<br>
 
 * **University of Edinburgh** (Exchange student, one semester abroad)<br>
-Sept.2018-Dec.2019<br>
+Sept. 2018 - Dec. 2019<br>
 **Courses**: Advanced Methods of Applied Mathematics (A1), Applied Stochastic Differential Equations (A2), Linear Analysis (A2)<br>
 
 ### PROJECT EXPERIENCE
 
 * Application of Non-negative Matrix Factorization in Urban Construction<br>
-Jan.2020-June.2020<br>
+Jan. 2020 - June. 2020<br>
 Graduate Dissertation / Supervisor: Lu Lin
   + Applied **Non-negative Matrix Factorization(NMF)** to Chinese statistical yearbook of urban construction in 2018.
   + Analysed the important indexes of unbalanced regional development in Chinese urban construction and representative cities.
@@ -49,7 +49,7 @@ University Entrepreneurial Training /  Supervisor: Shuni Chen
   + Came up with practical ideas and methods for online study platforms, such as uploading articles online & answering questions from children and their family.
 
 * Survey of Housing Prices in Xiamen<br>
-May 2017 - Jul. 2017<br>
+May. 2017 - Jul. 2017<br>
 Social Survey / Team Leader
   + Responsible for writing survey plan, assigning tasks, publicizing and purchasing materials.
   + Contacted teachers and real estate companies as the **team leader**.
@@ -88,22 +88,22 @@ Social Survey / Team Leader
 
 * **Jingrun Primary School Volunteer**<br>
 Mar. 2017 - Dec. 2018
-  + Participated in the opening ceremony for the activity ”4:30 Primary Class” of Jingrun Primary School held by the School of Mathematical Sciences at Xiamen University.
+  + Participated in the opening ceremony for the activity "4:30 Primary Class" of Jingrun Primary School held by the School of Mathematical Sciences at Xiamen University.
   + Volunteer to answer questions online.
 
 * **Director of Academic Department**<br>
-Sept. 2017-June.2018
+Sept. 2017 - June. 2018
   + Operated the Academic Department at the School of Mathematical Sciences in Xiamen University.
-  + Assisted tutors conduct specific general students’ work, collected and organized academic information related to professional classes.
+  + Assisted tutors conduct specific general students' work, collected and organized academic information related to professional classes.
   + Enhanced students ability in solving mathematical problems.
   + Organized the first Math Cup Knowledge Competition in Xiamen University.
   
 * **Leader of Ladies Basketball Team**<br>
-Mar. 2017-Mar. 2018
+Mar. 2017 - Mar. 2018
   + Led the School of Mathematical Sciences team to participate in the university Basketball league.
   + Organized all training for two or three times per week and coached team members who were not familiar with the basketball skills when the coach had no time.
   
-* **Volunteer for the second UNESCO Awards Ceremony for Girls and Women’s Education*<br>
+* **Volunteer for the second UNESCO Awards Ceremony for Girls and Women's Education**<br>
 Sept. 2017
   + Part of BRICS Meeting in 2017.
   + Attended the education awards ceremony and performed voluntary activities dependent on site condition and where needed.
