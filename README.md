@@ -24,7 +24,7 @@ Sept. 2018 - Dec. 2019<br>
 
 ### PROJECT EXPERIENCE
 
-* Application of Non-negative Matrix Factorization in Urban Construction [pdf.](https://github.com/Xinyi-Wu/Xinyi-Wu.github.io/blob/master/The%20Application%20of%20Non-negative%20Matrix%20Factorization.pdf)<br>
+* Application of Non-negative Matrix Factorization in Urban Construction [pdf.](The Application of Non-negative Matrix Factorization.pdf)<br>
 Jan. 2020 - June. 2020<br>
 Graduate Dissertation / Supervisor: Lu Lin
   + Applied **Non-negative Matrix Factorization(NMF)** to Chinese statistical yearbook of urban construction in 2018.
