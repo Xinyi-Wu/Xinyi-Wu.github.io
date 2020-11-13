@@ -81,7 +81,7 @@ Social Survey / Team Leader
 |Category|Name|
 |:---|:---|
 |**Programming**:|Python (Advanced), C (Intermediate), R (Intermediate)|
-|**Modelling & Analysis**:|Matlab (Advanced)|
+|**Modelling & Analysis**:|Matlab (Advanced), GAMA (Advanced)|
 |**Paper writing**:|Latex (Advanced)|
 
 ### WORK EXPERIENCE
