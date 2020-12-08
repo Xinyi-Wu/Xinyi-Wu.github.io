@@ -24,6 +24,14 @@ Sept. 2019 - Dec. 2019<br>
 
 ### PROJECT EXPERIENCE
 
+* Evacuation Project [pdf.](Evacuation_Project_Presentation__Research_Skills__2020_21_.pdf)<br>
+Sept. 2020 - Dec. 2020<br>
+group project / Supervisor: Luca Giuggioli
+  + Utilised GAMA, MATLAB, Latex.
+  + Implemented **Stochastic Process** & **sensitivity analysis**.
+  + Responsible for constructing school hall for a secondary school to facilitate fast evacuation in the case of emergency.
+  + Applied **Frictional function**, **Turning function** & **Belief-Desire-Intention** in hexagonal cell model. Simulated evacuation and compared them under different cases including several shapes of  hall, with and without obstacle and position of exits, as well as considering the relationship among agents and the emergency e.g. fire. 
+
 * Application of Non-negative Matrix Factorization in Urban Construction [pdf.](The Application of Non-negative Matrix Factorization.pdf)<br>
 Jan. 2020 - June. 2020<br>
 Graduate Dissertation / Supervisor: Lu Lin
