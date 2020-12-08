@@ -19,7 +19,7 @@ Awarded the Scholarship for Excellent Academic Studies and the Scholarship for S
 **Courses**: Diophantine Equation(100%), Advanced Algebra I (99%), Mathematical Analysis I (97%), C Programming Language (97%), Numerical Approximation (94%)<br>
 
 * **University of Edinburgh** (Exchange student, one semester abroad)<br>
-Sept. 2018 - Dec. 2019<br>
+Sept. 2019 - Dec. 2019<br>
 **Courses**: Advanced Methods of Applied Mathematics (A1), Applied Stochastic Differential Equations (A2), Linear Analysis (A2)<br>
 
 ### PROJECT EXPERIENCE
