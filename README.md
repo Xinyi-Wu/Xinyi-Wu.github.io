@@ -115,3 +115,6 @@ Mar. 2017 - Mar. 2018
 Sept. 2017
   + Part of BRICS Meeting in 2017.
   + Attended the education awards ceremony and performed voluntary activities dependent on site condition and where needed.
+  
+### Supplementary materials
+* presentation on course Complex Network [pdf.](pre_complex_network_Xinyi_Wu.pdf)
