@@ -10,7 +10,7 @@ tv20343@bristol.ac.uk<br>
 Oct. 2020 - Sept. 2021<br>
 **Major**: Engineering Mathematics (MSc)<br> 
 **Courses**: Delay and stochastic equations in engineering and biology(91%), Numerical Methods in Matlab(80%), Uncertainty Modelling for Intelligent Systems(78%)<br>
-Research interest: Numerical analysis, PDEs, Engineering Mathematics, Applied and Computational Mathematics<br>
+**Research interest**: Numerical analysis, SDEs, PDEs, Engineering Mathematics, Applied and Computational Mathematics<br>
 
 * **Xiamen University**<br>
 Sept. 2016 - June. 2020<br>
