@@ -1,8 +1,8 @@
 # Xinyi Wu
 Engineering Mathematics (MSc)<br>
 University of Bristol<br>
-+86 18976867812<br>
-tv20343@bristol.ac.uk<br>
++44 (0)7579872912<br>
+xwu9056@gmail.com<br>
 
 ### EDUCATION
 
