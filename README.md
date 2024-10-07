@@ -6,12 +6,12 @@ university email: xxw142@student.bham.ac.uk<br>
 personal email: xwu9056@gmail.com<br>
 
 ### RESEARCH INTERESTS
-My research is focused on the mathematical and numerical analysis of models from molecular simulation, with a current emphasis on applications ranging from computational mathematics, statistical mechanics, to data science.<br>
+My research is focused on the mathematical and numerical analysis of models from molecular simulation, with a current emphasis on applications ranging from computational mathematics, statistical mechanics, to data science. Recently I have been working on numerical methods for dissipative particle dynamics.<br>
 
 ### EDUCATION
 
 * **University of Birmingham**<br>
-Oct. 2021 - Oct. 2025<br>
+Oct. 2021 - Present<br>
 **Major**: Applied Mathematics (PhD)<br>
 **Proposed Thesis Title**: Numerical Algorithms for Molecular Systems and Data Science<br>
 **Supervisors**: Dr Xiaocheng Shang (Primary), Prof Jinglai Li (Secondary)<br>
