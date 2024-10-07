@@ -35,6 +35,12 @@ Sept. 2019 - Dec. 2019<br>
 **Courses**: Advanced Methods of Applied Mathematics (A1), Applied Stochastic Differential Equations (A2), Linear Analysis (A2)<br>
 
 ### PROJECT EXPERIENCE
+* Predicting Chemical Properties of Compounds from their Molecular Structure with Machine Learning [pdf.](Predicting_Chemical_Properties_of_Compounds_from_their_Molecular_Structure_with_Machine_Learning.pdf)<br>
+Jul. 2022<br>
+group project / Mentor: Ambrose Yim
+  + Applied **Machine Learning algorithms** to learn and estimate whether compounds are mutagen or not.
+  + Analysed the potential features of prediction model based on both of **graph theory** and **linear algebra** & **statistics**, and used cross-validation to resample the data.
+  + Utilised Python, LATEX.
 
 * Evacuation Project [pdf.](Evacuation_Project_Presentation__Research_Skills__2020_21_.pdf)<br>
 Sept. 2020 - Dec. 2020<br>
@@ -43,16 +49,6 @@ group project / Supervisor: Luca Giuggioli
   + Implemented **Stochastic Process** & **sensitivity analysis**.
   + Responsible for constructing school hall for a secondary school to facilitate fast evacuation in the case of emergency.
   + Applied **Frictional function**, **Turning function** & **Belief-Desire-Intention** in hexagonal cell model. Simulated evacuation and compared them under different cases including several shapes of  hall, with and without obstacle and position of exits, as well as considering the relationship among agents and the emergency e.g. fire. 
-
-* Application of Non-negative Matrix Factorization in Urban Construction [pdf.](The Application of Non-negative Matrix Factorization.pdf)<br>
-Jan. 2020 - June. 2020<br>
-Graduate Dissertation / Supervisor: Lu Lin
-  + Applied **Non-negative Matrix Factorization(NMF)** to Chinese statistical yearbook of urban construction in 2018.
-  + Analysed the important indexes of unbalanced regional development in Chinese urban construction and representative cities.
-  + Took the drainage and sewage treatment as a single example for realization of non-negative matrix decomposition algorithm and identified key indices that influenced this aspect.
-  + Explored how to apply different **normalisation methods** including weight data normalisation method to the data pre-processing in non-negative matrix factorization.
-  + Analysed the proportion of unbalanced development index in eight speciality classification of urban construction including 143 specific indexes and 673 Chinese cities. 
-  + Utilised MATLAB, Latex.<br>
 
 * Geographic Distribution Prediction of Global Languages & Human Migration Patterns [pdf.](MCM.pdf)<br>
 Feb. 2018<br>
