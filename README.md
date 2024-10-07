@@ -1,23 +1,34 @@
 # Xinyi Wu
-Engineering Mathematics (MSc)<br>
-University of Bristol<br>
+Applied Mathematics (PhD)<br>
+University of Birmingham<br>
 +44 (0)7579872912<br>
-xwu9056@gmail.com<br>
+university email: xxw142@student.bham.ac.uk<br>
+personal email: xwu9056@gmail.com<br>
+
+### RESEARCH INTERESTS
+My research is focused on the mathematical and numerical analysis of models from molecular simulation, with a current emphasis on applications ranging from computational mathematics, statistical mechanics, to data science.<br>
 
 ### EDUCATION
 
+* **University of Birmingham**<br>
+Oct. 2021 - Oct. 2025<br>
+**Major**: Applied Mathematics (PhD)<br>
+**Proposed Thesis Title**: Numerical Algorithms for Molecular Systems and Data Science<br>
+**Supervisors**: Dr Xiaocheng Shang (Primary), Prof Jinglai Li (Secondary)<br>
+**Studentship**: University of Birmingham- China Scholarship Council Studentship<br>
+  
 * **University of Bristol**<br>
 Oct. 2020 - Sept. 2021<br>
 **Major**: Engineering Mathematics (MSc)<br> 
 **Courses**: Delay and stochastic equations in engineering and biology(91%), Numerical Methods in Matlab(80%), Uncertainty Modelling for Intelligent Systems(78%)<br>
-**Research interest**: Numerical analysis, SDEs, PDEs, Engineering Mathematics, Applied and Computational Mathematics<br>
+**Dissertation Topic**: Learning Nonlinear Dynamics from Experimental Data- Universal Differential Equations for Duffing-like System Identification in Presence of Noise[pdf.](Xinyi_Wu_Thesis_MSc.pdf)<br>
 
 * **Xiamen University**<br>
 Sept. 2016 - June. 2020<br>
-**Major**: Information & Computing Science<br>
-**Cumulative GPA**: 3.17/4, avg. grade: 82.7%<br>
+**Major**: Information & Computing Science (BSc)<br>
 Awarded the Scholarship for Excellent Academic Studies and the Scholarship for Social Practice respectively in Nov. 2017 by School of Mathematical Sciences, Xiamen University<br>
 **Courses**: Diophantine Equation(100%), Advanced Algebra I (99%), Mathematical Analysis I (97%), C Programming Language (97%), Numerical Approximation (94%)<br>
+**Dissertation Topic**: The Application of Non-negative Matrix Factorization in Urban Construction[pdf.](Xinyi_Wu_Thesis_BSc.pdf)<br>
 
 * **University of Edinburgh** (Exchange student, one semester abroad)<br>
 Sept. 2019 - Dec. 2019<br>
