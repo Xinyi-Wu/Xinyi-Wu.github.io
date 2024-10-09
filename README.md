@@ -34,6 +34,9 @@ Awarded the Scholarship for Excellent Academic Studies and the Scholarship for S
 Sept. 2019 - Dec. 2019<br>
 **Courses**: Advanced Methods of Applied Mathematics (A1), Applied Stochastic Differential Equations (A2), Linear Analysis (A2)<br>
 
+### EVENT
+* Research School on Sampling High-dimensional Probability Measures: Applications in (Non)equilibrium Molecular Dynamics and Statistics <span style="float: right;">September 2023</span>
+
 ### PROJECT EXPERIENCE
 * Predicting Chemical Properties of Compounds from their Molecular Structure with Machine Learning [pdf.](Predicting_Chemical_Properties_of_Compounds_from_their_Molecular_Structure_with_Machine_Learning.pdf)<br>
 Jul. 2022<br>
