@@ -36,6 +36,7 @@ Sept. 2019 - Dec. 2019<br>
 
 ### EVENT
 * Research School on Sampling High-dimensional Probability Measures: Applications in (Non)equilibrium Molecular Dynamics and Statistics <span style="float: right;">September 2023</span>
+* ccp5 Summer School on Molecular Simulation <span style="float: right;">May 2022</span>
 
 ### PROJECT EXPERIENCE
 * Predicting Chemical Properties of Compounds from their Molecular Structure with Machine Learning [pdf.](Predicting_Chemical_Properties_of_Compounds_from_their_Molecular_Structure_with_Machine_Learning.pdf)<br>
