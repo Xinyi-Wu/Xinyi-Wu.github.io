@@ -43,7 +43,10 @@ Sept. 2019 - Dec. 2019<br>
 * Lunchtime Applied Mathematics Seminars in University of Birmingham (February 2023 & April 2022)<br>
 * London Mathematical Society - University of Birmingham Workshop on Stochastics/Partial Differential Equations: Analysis and Computations (early career researchers short talk session) (June 2022)<br>
 
-### Training
+### PUBLICATION
+* Roberta McGuinness, Daniel Herring, Xinyi Wu, Maryam Almandi, Daveena Bhangu, Lucia Collinson, Xiaocheng Shang, and Emma Černis: [Identifying risk profiles for dissociation in 16- to 25-year-olds using machine learning.](https://osf.io/preprints/psyarxiv/j54v3)  Submitted. (2024)
+
+### TRAINING
 * University of Birmingham
    + Data Science and Computational Statistics Seminar (Oct. 2021 - Present)<br>
    + Applied Mathematics Seminar (Oct. 2021 - Present)<br>
