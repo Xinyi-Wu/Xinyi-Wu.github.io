@@ -100,12 +100,13 @@ Social Survey / Team Leader
   + Contacted teachers and real estate companies as the **team leader**.<br>
 
 ### SKILLS
+
 |Category|Name|
 |:---|:---|
 |**Programming**:|Julia (Advanced), Python (Intermediate), MATLAB (Intermediate), GAMA, C, R|
-|**Computer Clustering**:| BlueBEAR (the Supercomputer in University of Birmingham)|
-|**Paper Writing**:| LaTeX, Word, PowerPoint|
-|**Languages**:| Chinese (Native), English (Proficient)|
+|**Computer Clustering**:|BlueBEAR (the Supercomputer in University of Birmingham)|
+|**Paper Writing**:|LaTeX, Word, PowerPoint|
+|**Languages**:|Chinese (Native), English (Proficient)|
 
 ### WORK EXPERIENCE
 * **Teaching Assistant**<br>
