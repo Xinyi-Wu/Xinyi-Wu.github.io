@@ -140,7 +140,7 @@ Xiamen University / Sept. 2017
 
 |Category|Name|
 |:---|:---|
-|**Scholarship**|University of Birmingham - China Scholarship Council Studentship|
+|**Scholarship**|University of Birmingham - China Scholarship Council Studentship (for PhD)|
 |**Award**|2019's Excellent Award in the Jiedian Cup Super-Math Competition|
 |**Meritorious Winner**|2018's ICM/MCM International Mathematical Modelling Contest|
 |**Scholarship**|2018's Scholarship for Academic Innovation|
