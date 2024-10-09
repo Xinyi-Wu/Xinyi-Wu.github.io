@@ -24,7 +24,7 @@ Oct. 2020 - Sept. 2021<br>
 **Dissertation Topic**: Learning Nonlinear Dynamics from Experimental Data- Universal Differential Equations for Duffing-like System Identification in Presence of Noise[pdf.](Xinyi_Wu_Thesis_MSc.pdf)<br>
 
 * **Xiamen University**<br>
-Sept. 2016 - June. 2020<br>
+Sept. 2016 - June 2020<br>
 **Major**: Information & Computing Science (BSc)<br>
 Awarded the Scholarship for Excellent Academic Studies and the Scholarship for Social Practice respectively in Nov. 2017 by School of Mathematical Sciences, Xiamen University<br>
 **Courses**: Diophantine Equation(100%), Advanced Algebra I (99%), Mathematical Analysis I (97%), C Programming Language (97%), Numerical Approximation (94%)<br>
@@ -35,21 +35,34 @@ Sept. 2019 - Dec. 2019<br>
 **Courses**: Advanced Methods of Applied Mathematics (A1), Applied Stochastic Differential Equations (A2), Linear Analysis (A2)<br>
 
 ### EVENT
-### EVENT
+* Synergies Between Mathematics, Data Science, and Molecular Simulations in Materials Science (July 2024)<br>
+* ccp5 Summer School on Molecular Simulation (July 2023)<br>
+* Birmingham Workshop on (Non)equilibrium Molecular Dynamics: Algorithms, Analysis, and Application (May 2023)<br>
+* Birmingham Environment for Academic Research PGR Conference (April 2023)<br>
+* Lunchtime Event to Promote Further Study in University of Birmingham (March 2023)<br>
+* Lunchtime Applied Mathematics Seminars in University of Birmingham (February 2023 & April 2022)<br>
+* London Mathematical Society - University of Birmingham Workshop on Stochastics/Partial Differential Equations: Analysis and Computations (early career researchers short talk session) (June 2022)<br>
 
-<div style="display: flex; justify-content: space-between;">
-  <span>Research School on Sampling High-dimensional Probability Measures: Applications in (Non)equilibrium Molecular Dynamics and Statistics</span>
-  <span style="text-align: right;">September 2023</span>
-</div>
-
-<div style="display: flex; justify-content: space-between;">
-  <span>ccp5 Summer School on Molecular Simulation</span>
-  <span style="text-align: right;">July 2023</span>
-</div>
-
+### Training
+* University of Birmingham
+   + Data Science and Computational Statistics Seminar (Oct. 2021 - Present)<br>
+   + Applied Mathematics Seminar (Oct. 2021 - Present)<br>
+   + Workshop: interplay of partial differential equations and stochastic processes (March 2023)<br>
+   + NVIDIA Fundamentals of Deep Learning Course (March 2023)<br>
+   + BEAR Training : Accelerating Data Engineering Pipelines (March 2023)<br>
+   + Software Carpentry : Git training (March 2023)<br>
+   + Thesis and Dissertation Writing for STEM (Feb. - March 2023)<br>
+   + Introduction to BlueBEAR training (Feb. 2023)<br>
+   + Introduction to Linux training (Jan. 2023)<br>
+   + Reading Group : Mathematics of Data Sciences (Oct. 2021 - April 2022)<br>
+   
+* CERMICS
+   + Research School on Sampling High-dimensional Probability Measures: Applications in (Non)equilibrium Molecular Dynamics and Statistics (Sept. 2023)<br>
+   + Molly Workshop on Molecular Simulation (Nov. 2022)<br>
+    
 ### PROJECT EXPERIENCE
 * Predicting Chemical Properties of Compounds from their Molecular Structure with Machine Learning [pdf.](Predicting_Chemical_Properties_of_Compounds_from_their_Molecular_Structure_with_Machine_Learning.pdf)<br>
-Jul. 2022<br>
+July 2022<br>
 group project / Mentor: Ambrose Yim
   + Applied **Machine Learning algorithms** to learn and estimate whether compounds are mutagen or not.
   + Analysed the potential features of prediction model based on both of **graph theory** and **linear algebra** & **statistics**, and used cross-validation to resample the data.
@@ -72,21 +85,57 @@ International Mathematical Contest in Modeling / Supervisor: Zhong Tan
   + Applied **logistic growth model** & **function fitting** in Native Speakers Growth Model and **curve fitting** and **Multiple Regression Analysis** in Second (or third, etc.) Language Speakers Growth Model.<br>
   
 * Jingrun Teenager: A Platform to Help Teenagers Study Online<br>
-Mar. 2018 - Feb. 2019<br>
+March 2018 - Feb. 2019<br>
 University Entrepreneurial Training /  Supervisor: Shuni Chen
   + Participated on **the College Students' Innovative Entrepreneurial Training Plan Program**.
   + Came up with practical ideas and methods for online study platforms, such as uploading articles online & answering questions from children and their family.<br>
 
 * Survey of Housing Prices in Xiamen<br>
-May. 2017 - Jul. 2017<br>
+May 2017 - July 2017<br>
 Social Survey / Team Leader
   + Responsible for writing survey plan, assigning tasks, publicizing and purchasing materials.
   + Contacted teachers and real estate companies as the **team leader**.<br>
+
+### SKILLS
+
+|**Programming**:|Julia (Advanced), Python (Intermediate), MATLAB (Intermediate), GAMA, C, R|
+|**Computer Clustering**:| BlueBEAR (the Supercomputer in University of Birmingham)|
+|**Paper Writing**:| LaTeX, Word, PowerPoint|
+|**Languages**:| Chinese (Native), English (Proficient)|
+
+### WORK EXPERIENCE
+* **Teaching Assistant**<br>
+University of Birmingham / Oct. 2021 - Present
+  + Modules included Real Analysis, Sequences and Series, Linear Algebra & Linear Programming, Numerical Methods & Programming, Statistics, Applied Statistics, Stochastic Processes, Advanced
+Mathematical Finance, Statistical Methods in Economics, Algebra & Combinatorics.
+
+* **Jingrun Primary School Volunteer**<br>
+Xiamen University / March 2017 - Dec. 2018
+  + Participated in the opening ceremony for the activity "4:30 Primary Class" of Jingrun Primary School held by the School of Mathematical Sciences at Xiamen University.
+  + Volunteer to answer questions online.<br>
+
+* **Director of Academic Department**<br>
+Xiamen University / Sept. 2017 - June 2018
+  + Operated the Academic Department at the School of Mathematical Sciences in Xiamen University.
+  + Assisted tutors conduct specific general students' work, collected and organized academic information related to professional classes.
+  + Enhanced students ability in solving mathematical problems.
+  + Organized the first Math Cup Knowledge Competition in Xiamen University.<br>
+  
+* **Leader of Ladies Basketball Team**<br>
+Xiamen University / March 2017 - March 2018
+  + Led the School of Mathematical Sciences team to participate in the university Basketball league.
+  + Organized all training for two or three times per week and coached team members who were not familiar with the basketball skills when the coach had no time.<br>
+  
+* **Volunteer for the second UNESCO Awards Ceremony for Girls and Women's Education**<br>
+Xiamen University / Sept. 2017
+  + Part of BRICS Meeting in 2017.
+  + Attended the education awards ceremony and performed voluntary activities dependent on site condition and where needed.
 
 ### MAJOR AWARDS
 
 |Category|Name|
 |:---|:---|
+|**Scholarship**|University of Birmingham - China Scholarship Council Studentship|
 |**Award**|2019's Excellent Award in the Jiedian Cup Super-Math Competition|
 |**Meritorious Winner**|2018's ICM/MCM International Mathematical Modelling Contest|
 |**Scholarship**|2018's Scholarship for Academic Innovation|
@@ -105,37 +154,5 @@ Social Survey / Team Leader
 |**Award**|2016's Excellent Award of Xiamen University Cheerleading Championship|
 |**Fourth Place**|2016's Table Tennis Competition for freshmen in Women's Group|
 
-### COMPUTER SKILLS
-
-|Category|Name|
-|:---|:---|
-|**Modelling & Analysis**:|Julia (Advanced), Matlab (Advanced), GAMA (Advanced)|
-|**Programming**:|Python (Advanced), C (Intermediate), R (Intermediate)|
-|**Paper writing**:|Latex (Advanced)|
-
-### WORK EXPERIENCE
-
-* **Jingrun Primary School Volunteer**<br>
-Mar. 2017 - Dec. 2018
-  + Participated in the opening ceremony for the activity "4:30 Primary Class" of Jingrun Primary School held by the School of Mathematical Sciences at Xiamen University.
-  + Volunteer to answer questions online.<br>
-
-* **Director of Academic Department**<br>
-Sept. 2017 - June. 2018
-  + Operated the Academic Department at the School of Mathematical Sciences in Xiamen University.
-  + Assisted tutors conduct specific general students' work, collected and organized academic information related to professional classes.
-  + Enhanced students ability in solving mathematical problems.
-  + Organized the first Math Cup Knowledge Competition in Xiamen University.<br>
-  
-* **Leader of Ladies Basketball Team**<br>
-Mar. 2017 - Mar. 2018
-  + Led the School of Mathematical Sciences team to participate in the university Basketball league.
-  + Organized all training for two or three times per week and coached team members who were not familiar with the basketball skills when the coach had no time.<br>
-  
-* **Volunteer for the second UNESCO Awards Ceremony for Girls and Women's Education**<br>
-Sept. 2017
-  + Part of BRICS Meeting in 2017.
-  + Attended the education awards ceremony and performed voluntary activities dependent on site condition and where needed.
-  
 ### Supplementary materials
 * presentation on course Complex Network [pdf.](pre_complex_network_Xinyi_Wu.pdf)
