@@ -123,7 +123,7 @@ Xiamen University / March 2017 - Dec. 2018
 Xiamen University / Sept. 2017 - June 2018
   + Operated the Academic Department at the School of Mathematical Sciences in Xiamen University.
   + Assisted tutors conduct specific general students' work, collected and organized academic information related to professional classes.
-  + Enhanced students ability in solving mathematical problems.
+  + Motivated students' interests in mathematics and enhanced students ability in solving mathematical problems.
   + Organized the first Math Cup Knowledge Competition in Xiamen University.<br>
   
 * **Leader of Ladies Basketball Team**<br>
