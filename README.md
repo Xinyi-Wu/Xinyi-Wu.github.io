@@ -6,7 +6,7 @@ university email: xxw142@student.bham.ac.uk<br>
 personal email: xwu9056@gmail.com<br>
 
 ### RESEARCH INTERESTS
-My research is focused on the mathematical and numerical analysis of models from molecular simulation, with a current emphasis on applications ranging from computational mathematics, statistical mechanics, to data science. Recently I have been working on numerical methods for dissipative particle dynamics.<br>
+My research is focused on the mathematical and numerical analysis of models from molecular simulation, with a current emphasis on applications ranging from computational mathematics, statistical mechanics, to data science. Recently I have been working on the computation of transport coefficients in dissipative particle dynamics.<br>
 
 ### EDUCATION
 
@@ -24,7 +24,7 @@ Oct. 2020 - Sept. 2021<br>
 **Dissertation Topic**: Learning Nonlinear Dynamics from Experimental Data- Universal Differential Equations for Duffing-like System Identification in Presence of Noise[pdf.](Xinyi_Wu_Thesis_MSc.pdf)<br>
 
 * **Xiamen University**<br>
-Sept. 2016 - June 2020<br>
+Sept. 2016 - Jun. 2020<br>
 **Major**: Information & Computing Science (BSc)<br>
 Awarded the Scholarship for Excellent Academic Studies and the Scholarship for Social Practice respectively in Nov. 2017 by School of Mathematical Sciences, Xiamen University<br>
 **Courses**: Diophantine Equation(100%), Advanced Algebra I (99%), Mathematical Analysis I (97%), C Programming Language (97%), Numerical Approximation (94%)<br>
@@ -34,34 +34,42 @@ Awarded the Scholarship for Excellent Academic Studies and the Scholarship for S
 Sept. 2019 - Dec. 2019<br>
 **Courses**: Advanced Methods of Applied Mathematics (A1), Applied Stochastic Differential Equations (A2), Linear Analysis (A2)<br>
 
-### EVENT
-* Synergies Between Mathematics, Data Science, and Molecular Simulations in Materials Science (July 2024)<br>
-* ccp5 Summer School on Molecular Simulation (July 2023)<br>
-* Birmingham Workshop on (Non)equilibrium Molecular Dynamics: Algorithms, Analysis, and Application (May 2023)<br>
-* Birmingham Environment for Academic Research PGR Conference (April 2023)<br>
-* Lunchtime Event to Promote Further Study in University of Birmingham (March 2023)<br>
-* Lunchtime Applied Mathematics Seminars in University of Birmingham (February 2023 & April 2022)<br>
-* London Mathematical Society - University of Birmingham Workshop on Stochastics/Partial Differential Equations: Analysis and Computations (early career researchers short talk session) (June 2022)<br>
-
 ### PUBLICATION
-* Roberta McGuinness, Daniel Herring, Xinyi Wu, Maryam Almandi, Daveena Bhangu, Lucia Collinson, Xiaocheng Shang, and Emma Černis: [Identifying risk profiles for dissociation in 16- to 25-year-olds using machine learning.](https://osf.io/preprints/psyarxiv/j54v3)  Submitted. (2024)
+* Xinyi Wu, and Xiaocheng Shang: [Stochastic Norton Dynamics: An Alternative Approach for the Computation of Transport Coefficients in Dissipative Particle Dynamics](https://doi.org/10.1016/j.jcp.2025.114316). Journal of Computational Physics, 114316, 2025.<br>
+* Roberta McGuinness, Daniel Herring, Xinyi Wu, Maryam Almandi, Daveena Bhangu, Lucia Collinson, Xiaocheng Shang, and Emma Černis: [Identifying risk profiles for dissociation in 16- to 25-year-olds using machine learning.](https://doi.org/10.1111/eip.70015)  Early Intervention in Psychiatry, 19(2), e70015, 2025.<br>
+
+### Presentations
+* Computational Materials Science and Mathematics at the Particle and Atomistic Scales (Nov. 2025)
+* The Third Joint SIAM/CAIMS Annual Meetings (Aug. 2025)
+* Birmingham Workshop on Sampling High-Dimensional Probability Measures with Applications in (Non)Equilibrium Molecular Dynamics and Statistics (Jul. 2025)
+* The 10th International Workshop on Nonequilibrium Thermodynamics (Jun. 2025)
+* Bath Numerical Analysis Seminar (May 2025)
+* Synergies Between Mathematics, Data Science, and Molecular Simulations in Materials Science (Jul. 2024)
+* Birmingham Workshop on (Non)equilibrium Molecular Dynamics: Algorithms, Analysis, and Application (May 2023)
+* Birmingham Environment for Academic Research PGR Conference (Apr. 2023)
+* Lunchtime Applied Mathematics Seminars in University of Birmingham (Feb. 2023 and Apr. 2022)
+* London Mathematical Society - University of Birmingham Workshop on Stochastics/Partial Differential Equations: Analysis and Computations (Early Career Researchers Short Talk Session) (Jun. 2022)
 
 ### TRAINING
 * University of Birmingham
-   + Data Science and Computational Statistics Seminar (Oct. 2021 - Present)<br>
-   + Applied Mathematics Seminar (Oct. 2021 - Present)<br>
-   + Workshop: interplay of partial differential equations and stochastic processes (March 2023)<br>
-   + NVIDIA Fundamentals of Deep Learning Course (March 2023)<br>
-   + BEAR Training : Accelerating Data Engineering Pipelines (March 2023)<br>
-   + Software Carpentry : Git training (March 2023)<br>
-   + Thesis and Dissertation Writing for STEM (Feb. - March 2023)<br>
+   + Data Science and Computational Statistics Seminar (Oct. 2021 - May 2025)<br>
+   + Applied Mathematics Seminar (Oct. 2021 - May 2025)<br>
+   + Workshop: interplay of partial differential equations and stochastic processes (Mar. 2023)<br>
+   + NVIDIA Fundamentals of Deep Learning Course (Mar. 2023)<br>
+   + BEAR Training : Accelerating Data Engineering Pipelines (Mar. 2023)<br>
+   + Software Carpentry : Git training (Mar. 2023)<br>
+   + Thesis and Dissertation Writing for STEM (Feb. - Mar. 2023)<br>
    + Introduction to BlueBEAR training (Feb. 2023)<br>
    + Introduction to Linux training (Jan. 2023)<br>
-   + Reading Group : Mathematics of Data Sciences (Oct. 2021 - April 2022)<br>
+   + Reading Group : Mathematics of Data Sciences (Oct. 2021 - Apr. 2022)<br>
    
 * CERMICS
    + Research School on Sampling High-dimensional Probability Measures: Applications in (Non)equilibrium Molecular Dynamics and Statistics (Sept. 2023)<br>
    + Molly Workshop on Molecular Simulation (Nov. 2022)<br>
+
+* Other
+   + ccp5 Summer School on Molecular Simulation (Jul. 2023)
+   + Lunchtime Event to Promote Further Study in University of Birmingham (Mar. 2023)
     
 ### PROJECT EXPERIENCE
 * Predicting Chemical Properties of Compounds from their Molecular Structure with Machine Learning [pdf.](Predicting_Chemical_Properties_of_Compounds_from_their_Molecular_Structure_with_Machine_Learning.pdf)<br>
@@ -88,13 +96,13 @@ International Mathematical Contest in Modeling / Supervisor: Zhong Tan
   + Applied **logistic growth model** & **function fitting** in Native Speakers Growth Model and **curve fitting** and **Multiple Regression Analysis** in Second (or third, etc.) Language Speakers Growth Model.<br>
   
 * Jingrun Teenager: A Platform to Help Teenagers Study Online<br>
-March 2018 - Feb. 2019<br>
+Mar. 2018 - Feb. 2019<br>
 University Entrepreneurial Training /  Supervisor: Shuni Chen
   + Participated on **the College Students' Innovative Entrepreneurial Training Plan Program**.
   + Came up with practical ideas and methods for online study platforms, such as uploading articles online & answering questions from children and their family.<br>
 
 * Survey of Housing Prices in Xiamen<br>
-May 2017 - July 2017<br>
+May 2017 - Jul. 2017<br>
 Social Survey / Team Leader
   + Responsible for writing survey plan, assigning tasks, publicizing and purchasing materials.
   + Contacted teachers and real estate companies as the **team leader**.<br>
@@ -110,24 +118,24 @@ Social Survey / Team Leader
 
 ### WORK EXPERIENCE
 * **Teaching Assistant**<br>
-University of Birmingham / Oct. 2021 - Present
+University of Birmingham / Oct. 2021 - May 2025
   + Modules included Real Analysis, Sequences and Series, Linear Algebra & Linear Programming, Numerical Methods & Programming, Statistics, Applied Statistics, Stochastic Processes, Advanced
 Mathematical Finance, Statistical Methods in Economics, Algebra & Combinatorics.
 
 * **Jingrun Primary School Volunteer**<br>
-Xiamen University / March 2017 - Dec. 2018
+Xiamen University / Mar. 2017 - Dec. 2018
   + Participated in the opening ceremony for the activity "4:30 Primary Class" of Jingrun Primary School held by the School of Mathematical Sciences at Xiamen University.
   + Volunteer to answer questions online.<br>
 
 * **Director of Academic Department**<br>
-Xiamen University / Sept. 2017 - June 2018
+Xiamen University / Sept. 2017 - Jun. 2018
   + Operated the Academic Department at the School of Mathematical Sciences in Xiamen University.
   + Assisted tutors conduct specific general students' work, collected and organized academic information related to professional classes.
   + Motivated students' interests in mathematics and enhanced students ability in solving mathematical problems.
   + Organized the first Math Cup Knowledge Competition in Xiamen University.<br>
   
 * **Leader of Ladies Basketball Team**<br>
-Xiamen University / March 2017 - March 2018
+Xiamen University / Mar. 2017 - Mar. 2018
   + Led the School of Mathematical Sciences team to participate in the university Basketball league.
   + Organized all training for two or three times per week and coached team members who were not familiar with the basketball skills when the coach had no time.<br>
   
