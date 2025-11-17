@@ -11,9 +11,9 @@ My research is focused on the mathematical and numerical analysis of models from
 ### EDUCATION
 
 * **University of Birmingham**<br>
-Oct. 2021 - Present<br>
+Oct. 2021 - Jan. 2026 (expected)<br>
 **Major**: Applied Mathematics (PhD)<br>
-**Proposed Thesis Title**: Numerical Algorithms for Molecular Systems and Data Science<br>
+**Thesis Title**: The Computation of Transport Coefficients in Dissipative Particle Dynamics<br>
 **Supervisors**: Dr Xiaocheng Shang (Primary), Prof Jinglai Li (Secondary)<br>
 **Studentship**: University of Birmingham- China Scholarship Council Studentship<br>
   
