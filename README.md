@@ -76,7 +76,7 @@ Sept. 2019 - Dec. 2019<br>
 * The Computation of Transport Coefficients in Dissipative Particle Dynamics<br>
 Oct. 2021 - Jan. 2026 (expected)<br>
 PhD Programme / Supervisor: Xiaocheng Shang
-  + Develop and analyse numerical methods for computing **transport coefficients** in **dissipative particle dynamics**.
+  + Develop and analyse theoretical and numerical approaches for computing **transport coefficients** in **dissipative particle dynamics**.
   + Work on **algorithms** for long-time dynamical quantities in stochastic particle systems, with emphasis on robustness and reproducibility.
   + Implement simulation in **Julia** and run large-scale computations on **BlueBEAR**.
   
