@@ -6,7 +6,7 @@ university email: xxw142@student.bham.ac.uk<br>
 personal email: xwu9056@gmail.com<br>
 
 ### RESEARCH INTERESTS
-My research is focused on the mathematical and numerical analysis of models from molecular simulation, with a current emphasis on applications ranging from computational mathematics, statistical mechanics, to data science. Recently I have been working on the computation of transport coefficients in dissipative particle dynamics.<br>
+My research focuses on the mathematical and numerical analysis of molecular simulation and coarse-grained dynamics. During my PhD, I have been developing numerical methods for computing transport coefficients in dissipative particle dynamics, combining numerical analysis, statistical mechanics, and data-driven modelling.<br>
 
 ### EDUCATION
 
@@ -16,6 +16,7 @@ Oct. 2021 - Jan. 2026 (expected)<br>
 **Thesis Title**: The Computation of Transport Coefficients in Dissipative Particle Dynamics<br>
 **Supervisors**: Dr Xiaocheng Shang (Primary), Prof Jinglai Li (Secondary)<br>
 **Studentship**: University of Birmingham- China Scholarship Council Studentship<br>
+**Status**: Thesis submitted; viva passed with minor corrections; final submission expected in January 2026.
   
 * **University of Bristol**<br>
 Oct. 2020 - Sept. 2021<br>
@@ -72,6 +73,13 @@ Sept. 2019 - Dec. 2019<br>
    + Lunchtime Event to Promote Further Study in University of Birmingham (Mar. 2023)
     
 ### PROJECT EXPERIENCE
+* The Computation of Transport Coefficients in Dissipative Particle Dynamics<br>
+Oct. 2021 - Jan. 2026 (expected)<br>
+PhD Programme / Supervisor: Xiaocheng Shang
+  + Develop and analyse numerical methods for computing **transport coefficients** in **dissipative particle dynamics**.
+  + Work on **algorithms** for long-time dynamical quantities in stochastic particle systems, with emphasis on robustness and reproducibility.
+  + Implement simulation in **Julia** and run large-scale computations on **BlueBEAR**.
+  
 * Predicting Chemical Properties of Compounds from their Molecular Structure with Machine Learning [pdf.](Predicting_Chemical_Properties_of_Compounds_from_their_Molecular_Structure_with_Machine_Learning.pdf)<br>
 July 2022<br>
 group project / Mentor: Ambrose Yim
