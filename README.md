@@ -41,7 +41,7 @@ Sept. 2019 - Dec. 2019<br>
 
 ### Presentations
 * Computational Materials Science and Mathematics at the Particle and Atomistic Scales (Nov. 2025)
-* The Third Joint SIAM/CAIMS Annual Meetings (Aug. 2025)
+* The Third Joint SIAM/CAIMS Annual Meetings (Aug. 2025)[pdf.](AN25_Xinyi.pdf)<br>
 * Birmingham Workshop on Sampling High-Dimensional Probability Measures with Applications in (Non)Equilibrium Molecular Dynamics and Statistics (Jul. 2025)
 * The 10th International Workshop on Nonequilibrium Thermodynamics (Jun. 2025)
 * Bath Numerical Analysis Seminar (May 2025)
