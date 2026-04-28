@@ -9,10 +9,15 @@ personal email: xwu9056@gmail.com<br>
 ### RESEARCH INTERESTS
 My research focuses on the mathematical and numerical analysis of molecular simulation and coarse-grained dynamics. During my PhD, I have been developing numerical methods for computing transport coefficients in dissipative particle dynamics, combining numerical analysis, statistical mechanics, and data-driven modelling. For my future research directions, I will focus on machine learning for coarse-grained models from atomistic trajectories with physically constrained stochastic dynamics.<br>
 
+### POSITION
+* **Lancaster University**<br>
+May 2026 - Present<br>
+**Proposed Research Direction**: Machine Learning for Coarse-grained Models from Atomistic Trajectories with Physically Constrained Stochastic Dynamics<br>
+
 ### EDUCATION
 
 * **University of Birmingham**<br>
-Oct. 2021 - Mar. 2026 (expected)<br>
+Oct. 2021 - Mar. 2026<br>
 **Major**: Applied Mathematics (PhD)<br>
 **Thesis Title**: The Computation of Transport Coefficients in Dissipative Particle Dynamics<br>
 **Supervisors**: Dr Xiaocheng Shang (Primary), Prof Jinglai Li (Secondary)<br>
