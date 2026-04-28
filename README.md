@@ -7,7 +7,7 @@ university email: x.wu38@lancaster.ac.uk<br>
 personal email: xwu9056@gmail.com<br>
 
 ### RESEARCH INTERESTS
-My research focuses on the mathematical and numerical analysis of molecular simulation and coarse-grained dynamics. During my PhD, I have been developing numerical methods for computing transport coefficients in dissipative particle dynamics, combining numerical analysis, statistical mechanics, and data-driven modelling.<br>
+My research focuses on the mathematical and numerical analysis of molecular simulation and coarse-grained dynamics. During my PhD, I have been developing numerical methods for computing transport coefficients in dissipative particle dynamics, combining numerical analysis, statistical mechanics, and data-driven modelling. For my future research directions, I will focus on machine learning for coarse-grained models from atomistic trajectories with physically constrained stochastic dynamics.<br>
 
 ### EDUCATION
 
