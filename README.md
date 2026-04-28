@@ -3,7 +3,7 @@ Applied Mathematics (PhD)<br>
 University of Birmingham<br>
 +44 (0)7579872912<br>
 +86 18976867812<br>
-university email: xxw142@student.bham.ac.uk<br>
+university email: x.wu38@lancaster.ac.uk<br>
 personal email: xwu9056@gmail.com<br>
 
 ### RESEARCH INTERESTS
@@ -12,12 +12,11 @@ My research focuses on the mathematical and numerical analysis of molecular simu
 ### EDUCATION
 
 * **University of Birmingham**<br>
-Oct. 2021 - Jan. 2026 (expected)<br>
+Oct. 2021 - Mar. 2026 (expected)<br>
 **Major**: Applied Mathematics (PhD)<br>
 **Thesis Title**: The Computation of Transport Coefficients in Dissipative Particle Dynamics<br>
 **Supervisors**: Dr Xiaocheng Shang (Primary), Prof Jinglai Li (Secondary)<br>
 **Studentship**: University of Birmingham- China Scholarship Council Studentship<br>
-**Status**: Thesis submitted; viva passed with minor corrections; final submission expected in January 2026.
   
 * **University of Bristol**<br>
 Oct. 2020 - Sept. 2021<br>
