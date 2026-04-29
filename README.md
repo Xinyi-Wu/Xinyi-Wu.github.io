@@ -28,6 +28,7 @@ Oct. 2020 - Sept. 2021<br>
 **Major**: Engineering Mathematics (MSc)<br> 
 **Courses**: Delay and stochastic equations in engineering and biology(91%), Numerical Methods in Matlab(80%), Uncertainty Modelling for Intelligent Systems(78%)<br>
 **Dissertation Topic**: Learning Nonlinear Dynamics from Experimental Data- Universal Differential Equations for Duffing-like System Identification in Presence of Noise[pdf.](Xinyi_Wu_Thesis_MSc.pdf)<br>
+**Supervisors**: Dr David Barton<br>
 
 * **Xiamen University**<br>
 Sept. 2016 - Jun. 2020<br>
@@ -35,6 +36,7 @@ Sept. 2016 - Jun. 2020<br>
 Awarded the Scholarship for Excellent Academic Studies and the Scholarship for Social Practice respectively in Nov. 2017 by School of Mathematical Sciences, Xiamen University<br>
 **Courses**: Diophantine Equation(100%), Advanced Algebra I (99%), Mathematical Analysis I (97%), C Programming Language (97%), Numerical Approximation (94%)<br>
 **Dissertation Topic**: The Application of Non-negative Matrix Factorization in Urban Construction[pdf.](Xinyi_Wu_Thesis_BSc.pdf)<br>
+**Supervisors**: Dr Lu Lin<br>
 
 * **University of Edinburgh** (Exchange student, one semester abroad)<br>
 Sept. 2019 - Dec. 2019<br>
