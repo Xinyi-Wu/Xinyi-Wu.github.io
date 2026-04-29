@@ -43,7 +43,7 @@ Sept. 2019 - Dec. 2019<br>
 **Courses**: Advanced Methods of Applied Mathematics (A1), Applied Stochastic Differential Equations (A2), Linear Analysis (A2)<br>
 
 ### PUBLICATION
-* Xinyi Wu, and Xiaocheng Shang: [Stochastic Norton Dynamics: An Alternative Approach for the Computation of Transport Coefficients in Dissipative Particle Dynamics](https://doi.org/10.1016/j.jcp.2025.114316). Journal of Computational Physics, 114316, 2025.<br>
+* Xinyi Wu, and Xiaocheng Shang: [Stochastic Norton Dynamics: An Alternative Approach for the Computation of Transport Coefficients in Dissipative Particle Dynamics](https://doi.org/10.1016/j.jcp.2025.114316). Journal of Computational Physics, 541, 114316, 2025.<br>
 * Roberta McGuinness, Daniel Herring, Xinyi Wu, Maryam Almandi, Daveena Bhangu, Lucia Collinson, Xiaocheng Shang, and Emma Černis: [Identifying risk profiles for dissociation in 16- to 25-year-olds using machine learning.](https://doi.org/10.1111/eip.70015)  Early Intervention in Psychiatry, 19(2), e70015, 2025.<br>
 
 ### Presentations
